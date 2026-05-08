@@ -49,8 +49,11 @@ bone-fracture-detection/
 └── README.md             # Project documentation
 ```
 
-##Access link : https://drive.google.com/drive/folders/1AB4DGPVAtzagNdG0IWD7fOc6d-mgzbO7?usp=sharing
-##Data link : https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data?select=Bone_Fracture_Binary_Classification
+## Access link
+https://drive.google.com/drive/folders/1AB4DGPVAtzagNdG0IWD7fOc6d-mgzbO7?usp=sharing
+
+## Data link
+https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data?select=Bone_Fracture_Binary_Classification
 
 ## Future Improvements
 
